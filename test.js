@@ -1,12 +1,30 @@
-/* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type */
+/* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type, no-magic-numbers */
 import {test} from "tap"
 
-import {{NAME}} from "./source.js"
+import reverse from "./source.js"
 
 test(({same, end}) => {
   same(
-    {{NAME}}(true),
-    false
+    reverse([1, 2, 3]),
+    [3, 2, 1]
+  )
+
+  end()
+})
+
+test(({same, end}) => {
+  same(
+    reverse([1]),
+    [1]
+  )
+
+  end()
+})
+
+test(({same, end}) => {
+  same(
+    reverse("abc"),
+    "cba"
   )
 
   end()

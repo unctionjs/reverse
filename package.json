@@ -1,5 +1,5 @@
 {
-  "name": "@unction/{{FQNAME}}",
+  "name": "@unction/reverse",
   "version": "1.0.0",
   "description": "",
   "keywords": [
@@ -14,9 +14,9 @@
     }
   ],
   "license": "ISC",
-  "homepage": "https://github.com/unctionjs/{{NAME}}#readme",
-  "repository": "github:unctionjs/{{NAME}}",
-  "bugs": "https://github.com/unctionjs/{{NAME}}/issues",
+  "homepage": "https://github.com/unctionjs/reverse#readme",
+  "repository": "github:unctionjs/reverse",
+  "bugs": "https://github.com/unctionjs/reverse/issues",
   "main": "transpiled/source.js",
   "nyc": {
     "require": [
@@ -58,6 +58,9 @@
     "tap": "10.7.2"
   },
   "dependencies": {
-    "ramda": "0.24.1"
+    "@unction/flip": "2.0.0",
+    "@unction/fresh": "2.0.0",
+    "@unction/prepend": "2.1.0",
+    "@unction/reducevalues": "2.2.0"
   }
 }
