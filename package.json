@@ -17,7 +17,7 @@
   "homepage": "https://github.com/unctionjs/reverse#readme",
   "repository": "github:unctionjs/reverse",
   "bugs": "https://github.com/unctionjs/reverse/issues",
-  "main": "transpiled/source.js",
+  "main": "transpiled/index.js",
   "nyc": {
     "require": [
       "babel-register"
@@ -62,6 +62,5 @@
     "@unction/fresh": "2.0.0",
     "@unction/prepend": "2.1.0",
     "@unction/reducevalues": "2.2.0"
-  },
-  "main": "transpiled/index.js"
+  }
 }
