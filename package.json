@@ -58,9 +58,9 @@
   },
   "dependencies": {
     "@unction/flip": "2.5.0",
-    "@unction/fresh": "3.5.0",
-    "@unction/prepend": "2.7.0",
-    "@unction/reducevalues": "2.8.0"
+    "@unction/fresh": "3.6.0",
+    "@unction/prepend": "2.8.0",
+    "@unction/reducevalues": "2.9.0"
   },
   "files": [
     "transpiled/index.js"
