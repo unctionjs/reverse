@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@unction/flip": "2.5.0",
-    "@unction/fresh": "3.6.0",
+    "@unction/fresh": "3.7.0",
     "@unction/prepend": "2.8.0",
     "@unction/reducevalues": "2.33.0"
   },
