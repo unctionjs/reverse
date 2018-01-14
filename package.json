@@ -62,7 +62,7 @@
     "@unction/flip": "3.0.0",
     "@unction/fresh": "6.0.0",
     "@unction/prepend": "4.0.0",
-    "@unction/reducevalues": "4.0.0"
+    "@unction/reducevalues": "5.0.0"
   },
   "files": [
     "transpiled/index.js"
