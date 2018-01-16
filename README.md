@@ -4,7 +4,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> (ArrayType | string) -> (ArrayType | string)
+> (ArrayType | string) => (ArrayType | string)
 
 Takes an ordered list type and returns the reverse version of it.
 
