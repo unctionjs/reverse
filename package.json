@@ -58,10 +58,10 @@
     "tap": "12.6.1"
   },
   "dependencies": {
-    "@unction/flip": "4.1.0",
-    "@unction/fresh": "8.5.0",
-    "@unction/prepend": "6.5.0",
-    "@unction/reducevalues": "8.5.0"
+    "@unction/flip": "4.1.1",
+    "@unction/fresh": "8.6.0",
+    "@unction/prepend": "6.6.0",
+    "@unction/reducevalues": "8.6.0"
   },
   "files": [
     "index.js",
