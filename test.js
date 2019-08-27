@@ -1,7 +1,7 @@
 /* eslint-disable no-magic-numbers */
 import {test} from "tap";
 
-import reverse from "./index";
+import reverse from "./";
 
 test(({same, end}) => {
   same(
