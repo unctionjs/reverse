@@ -4,9 +4,9 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> (ArrayType | string) => (ArrayType | string)
+> OrderedEnumerableType<A> => OrderedEnumerableType<A>
 
-Takes an ordered list type and returns the reverse version of it.
+Takes an ordered enumerable type and returns the reverse version of it.
 
 ``` javascript
 reverse([1, 2, 3]) // [3, 2, 1]
