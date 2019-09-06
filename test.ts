@@ -1,5 +1,5 @@
 /* eslint-disable no-magic-numbers */
-import reverse from "./index.ts";
+import reverse from "./index";
 
 test(() => {
   expect(reverse([1, 2, 3])).toEqual([3, 2, 1]);
