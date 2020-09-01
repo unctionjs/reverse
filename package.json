@@ -64,9 +64,9 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
-    "@unction/flip": "4.1.3",
-    "@unction/fresh": "8.9.1",
-    "@unction/prepend": "6.10.0",
-    "@unction/reducevalues": "8.10.0"
+    "@unction/flip": "^4.1.4",
+    "@unction/fresh": "^8.11.0",
+    "@unction/prepend": "^6.11.0",
+    "@unction/reducevalues": "^8.11.0"
   }
 }
