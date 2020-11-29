@@ -61,8 +61,8 @@
   },
   "dependencies": {
     "@unction/flip": "^4.1.4",
-    "@unction/fresh": "^8.11.0",
-    "@unction/prepend": "^6.11.0",
-    "@unction/reducevalues": "^8.11.0"
+    "@unction/fresh": "^8.12.0",
+    "@unction/prepend": "^6.12.0",
+    "@unction/reducevalues": "^8.12.0"
   }
 }
